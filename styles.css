@@ -1,0 +1,75 @@
+body {
+  font-family: "Indie Flower", cursive;
+  margin: 0 auto;
+  background-color: #ad9d9d;
+  background-image: url("https://www.transparenttextures.com/patterns/light-wool.png");
+}
+
+.heading {
+  padding-top: 5%;
+  color: black;
+  text-align: center;
+  font-size: 3vh;
+}
+
+.container {
+  margin-top: 40px !important;
+  background-color: #d9adad;
+  background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
+  width: 50vh;
+  height: 80vh;
+  text-align: center;
+  border-radius: 37px 37px 37px 37px;
+  -moz-border-radius: 37px 37px 37px 37px;
+  -webkit-border-radius: 37px 37px 37px 37px;
+  border: 3px solid #000000;
+  -webkit-box-shadow: -7px 6px 14px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -7px 6px 14px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -7px 6px 14px 0px rgba(0, 0, 0, 0.75);
+  margin: auto;
+  overflow: hidden;
+}
+
+form input {
+  color: black;
+  width: 60%;
+  font-size: 3vh;
+  border-width: 0 0 1vh;
+  border-bottom: dotted 0.4vh black;
+  font-family: "Indie Flower", cursive;
+  outline: none;
+  background-color: transparent;
+  margin-left: 5vh;
+}
+
+form button {
+  font-family: "Indie Flower", cursive;
+  font-size: 3vh;
+  position: relative;
+  float: right;
+  margin-right: 3vh;
+  border-radius: 5vh;
+  height: 5vh;
+  width: 5vh;
+  color: white;
+  border: none;
+  background-color: black;
+  cursor: pointer;
+}
+
+li {
+  text-align: left;
+  color: black;
+  font-size: 3vh;
+  margin-left: 10%;
+  cursor: pointer;
+}
+
+footer {
+  position: absolute;
+  font-family: "Indie Flower", cursive;
+  bottom: 0;
+  color: black;
+  width: 100%;
+  text-align: center;
+}
