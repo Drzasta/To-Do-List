@@ -22,15 +22,13 @@
 
 ## Setup
 
-Switch to master branch and upload the files.
-
 To run this project install it locally using npm:
 
-- cd.../ToDoList
+- cd.../To-Do-List
 - npm install
 - npm start
 
-Link to application: https://drzasta.github.io/ToDoList/
+Link to application: https://drzasta.github.io/To-Do-List/
 
 ## Features
 
