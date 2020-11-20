@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![Example screenshot](./public/todolist.png)
+![Example screenshot](./todolist.png)
 
 ## Technologies
 
@@ -34,7 +34,6 @@ Link to application: https://drzasta.github.io/To-Do-List/
 
 - Add new task using "+"
 - Remove task by clicking on task
-- Use it on your you computer or phone
 
 ## Inspiration
 
