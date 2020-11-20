@@ -4,15 +4,12 @@
 
 ## Table of contents
 
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
 - [Inspiration](#inspiration)
 
-## Screenshots
-
-![Example screenshot](./public/todo.png)
+![](todo.gif)
 
 ## Technologies
 
