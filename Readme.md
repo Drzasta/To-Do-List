@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![Example screenshot](./todolist.png)
+![Example screenshot](./public/todo.png)
 
 ## Technologies
 
