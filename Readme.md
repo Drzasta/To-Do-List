@@ -28,7 +28,7 @@ To run this project install it locally using npm:
 - npm install
 - npm start
 
-Link to application: https://drzasta.github.io/To-Do-List/
+Link to application: https://justyna-gawlik.github.io/To-Do-List/
 
 ## Features
 
