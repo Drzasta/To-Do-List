@@ -73,3 +73,32 @@ footer {
   width: 100%;
   text-align: center;
 }
+@media screen and (orientation: landscape) {
+.heading {
+  padding-top: 2%;
+  font-size: 2vh;
+}
+
+.container {
+  margin-top: 10px !important;
+  width: 80vh;
+  height: auto;
+}
+
+form input {
+  width: 70%;
+  font-size: 2vh;
+  margin-left: 4vh;
+}
+
+form button {
+  font-size: 2vh;
+  margin-right: 2vh;
+  height: 6vh;
+  width: 6vh;
+}
+
+footer {
+  font-size: 0.5vh;
+}
+}
